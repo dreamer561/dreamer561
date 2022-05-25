@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dreamer561
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning css and java with DSA also
+- 👀 I’m interested Development and creating now things with latest technologies;
+- 🌱 i have been experince in java and c++ ,python also;
 - 💞️ I’m looking to collaborate on google / open Source
 - 📫 How to reach me twitter @bkbibhesh
 
